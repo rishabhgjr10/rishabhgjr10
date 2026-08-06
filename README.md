@@ -47,7 +47,7 @@ Backend-focused Software Engineer with experience building scalable RESTful micr
 
 ### ⭐️ Highlighted Projects
 
-* **[Verdikt]([https://github.com/rishabhgjr10](https://verdikt-two.vercel.app/))** — Full-Stack Media Review & Aggregation Platform (Java 17, Spring Boot, Next.js, MySQL, Docker)
+* **[Verdikt](https://verdikt-two.vercel.app/)** — Full-Stack Media Review & Aggregation Platform (Java 17, Spring Boot, Next.js, MySQL, Docker)
   * Architected decoupled RESTful services optimizing API data delivery and client load times by ~30%.
   * Integrated multi-source external APIs (TMDB, Google Books, IGDB) with fallback mechanisms and rate-limiting resilience.
 * **[URL Shortener Service](https://github.com/rishabhgjr10)** — High-Performance URL Shortener (Spring Boot, Redis, MySQL, Base62, Docker)
@@ -61,6 +61,7 @@ Backend-focused Software Engineer with experience building scalable RESTful micr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabhgjr)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/rishabhgjr7)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabhgurjarmain@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://rishabhgjr10.com)
 
 ---
 
