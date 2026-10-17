@@ -50,7 +50,7 @@ Backend-focused Software Engineer with experience building scalable RESTful micr
 * **[Verdikt](https://verdikt-two.vercel.app/)** — Full-Stack Media Review & Aggregation Platform (Java 17, Spring Boot, Next.js, MySQL, Docker)
   * Architected decoupled RESTful services optimizing API data delivery and client load times by ~30%.
   * Integrated multi-source external APIs (TMDB, Google Books, IGDB) with fallback mechanisms and rate-limiting resilience.
-* **[URL Shortener Service](https://github.com/rishabhgjr10)** — High-Performance URL Shortener (Spring Boot, Redis, MySQL, Base62, Docker)
+* **[URL Shortener Service](https://bauna.xyz)** — High-Performance URL Shortener (Spring Boot, Redis, MySQL, Base62, Docker)
   * Implemented a Redis Cache-Aside pattern to offload high-frequency read traffic and reduce database latency.
   * Designed Base62 collision-resistant link generation with built-in analytics tracking.
 
